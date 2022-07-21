@@ -4,7 +4,7 @@
 
 ![Miku](https://raw.githubusercontent.com/No767/Miku/master/Logo-Assets/miku_smaller.png)
 
-![GitHub package.json dependency version (subfolder of monorepo)](https://img.shields.io/github/package-json/dependency-version/No767/Miku-Site/next?filename=miku-next%2Fpackage.json&label=Next.js&logo=nextdotjs) ![GitHub](https://img.shields.io/github/license/No767/Mku-Site?label=License&logo=github)
+![GitHub package.json dependency version (subfolder of monorepo)](https://img.shields.io/github/package-json/dependency-version/No767/Miku-Site/next?filename=miku-next%2Fpackage.json&label=Next.js&logo=nextdotjs) ![GitHub](https://img.shields.io/github/license/No767/Miku-Site?label=License&logo=github)
 
 The official site for Miku
 
