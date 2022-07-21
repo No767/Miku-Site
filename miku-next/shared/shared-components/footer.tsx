@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 import NextLink from "next/link";
 import { VStack, HStack, Text, Link } from "@chakra-ui/react";
 import { SiNextdotjs, SiChakraui, SiFastapi } from "react-icons/si";
@@ -6,7 +6,7 @@ import { SiNextdotjs, SiChakraui, SiFastapi } from "react-icons/si";
 export default function Footer() {
   return (
     <>
-        <VStack pt={200}>
+      <VStack pt={200}>
         <Text>Built with</Text>
         <HStack spacing={15}>
           <NextLink href="https://nextjs.org/" passHref>
@@ -19,7 +19,6 @@ export default function Footer() {
           <NextLink href="https://fastapi.tiangolo.com/" passHref>
             <SiFastapi size={24} />
           </NextLink>
-          
         </HStack>
         <HStack spacing={25}>
           <NextLink href="/terms-of-service" passHref>
@@ -34,6 +33,5 @@ export default function Footer() {
         </Text>
       </VStack>
     </>
-
   );
 }

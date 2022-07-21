@@ -1,8 +1,8 @@
-import type { NextPage } from 'next'
-import NavBarMain  from '../shared/shared-components/navbar'
-import MainBody from '../shared/index-components/body'
-import IndexShowcase from '../shared/index-components/showcase'
-import Footer from '../shared/shared-components/footer'
+import type { NextPage } from "next";
+import NavBarMain from "../shared/shared-components/navbar";
+import MainBody from "../shared/index-components/body";
+import IndexShowcase from "../shared/index-components/showcase";
+import Footer from "../shared/shared-components/footer";
 
 const IndexHome: NextPage = () => {
   return (
@@ -12,7 +12,7 @@ const IndexHome: NextPage = () => {
       <IndexShowcase />
       <Footer />
     </div>
-  )
-}
+  );
+};
 
-export default IndexHome
+export default IndexHome;
